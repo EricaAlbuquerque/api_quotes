@@ -1,69 +1,177 @@
-{
-    "favoriteQuotes": [
-        {
-            "id": "01",
-            "quotes": "Alguns homens veem coisas e perguntam porque. Outros sonham coisas que nunca existiram e perguntam porque não.",
-            "author": "George Bernard Shaw"
-        },
-        {
-            "id": "02",
-            "quotes": " A alma fica tingida pela cor dos seus pensamentos.   ",
-            "author": "Marcus Aurelius"
-        },
-        {
-            "id": "03",
-            "quotes": "Pensar é fácil. Agir é difícil. Mas a coisa mais difícil no mundo é agir de acordo com o seu pensamento.",
-            "author": "Goethe"
-        },
-        {
-            "id": "04",
-            "quotes": "No passado, você era o que você possuia. Agora, você é o que você compartilha. ",
-            "author": "Charles Leadbeater, no livro We Think(2008)"
-        },
-        {
-            "id": "05",
-            "quotes": "Um cínico é um homem que sabe o preço de tudo, mas o valor de nada.",
-            "author": "Oscar Wilde"
-        },
-        {
-            "id": "06",
-            "quotes": "A educação é a arma mais poderosa para mudar o mundo.",
-            "author": "Nelson Mandela"
-        },
-        {
-            "id": "07",
-            "quotes": "O cientista não é o homem que fornece as verdadeiras respostas; é quem faz as verdadeiras perguntas.",
-            "author": "Claude Lévi-Strauss"
-        },
-        {
-            "id": "08",
-            "quotes": "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se.",
-            "author": " Viktor Frankl"
-        },
-        {
-            "id": "09",
-            "quotes": "A habilidade é de pouca importância, sem a oportunidade.",
-            "author": " Napoleão Bonaparte"
-        },
-        {
-            "id": "10",
-            "quotes": "Estabelecer metas é o primeiro passo para tornar o invisível em visível.",
-            "author": " Tony Robbins"
-        },
-        {
-            "id": "11",
-            "quotes": "Em três palavras eu posso resumir tudo o que aprendi sobre a vida: ela sempre continua. ",
-            "author": "Robert Frost"
-        },
-        {
-            "id": "12",
-            "quotes": "A inovação quase nunca fracassa por falta de criatividade. Quase sempre isso se deve à falta de disciplina.",
-            "author": " Larry Keeley"
-        },
-        {
-            "id": "02",
-            "quotes": "O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade.",
-            "author": " Winston Churchill"
-        }
-    ]
-}
+[
+    {
+        "id": "01",
+        "quotes": "Alguns homens veem coisas e perguntam porque. Outros sonham coisas que nunca existiram e perguntam porque não.",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "id": "02",
+        "quotes": " A alma fica tingida pela cor dos seus pensamentos.   ",
+        "author": "Marcus Aurelius"
+    },
+    {
+        "id": "03",
+        "quotes": "Pensar é fácil. Agir é difícil. Mas a coisa mais difícil no mundo é agir de acordo com o seu pensamento.",
+        "author": "Goethe"
+    },
+    {
+        "id": "04",
+        "quotes": "No passado, você era o que você possuia. Agora, você é o que você compartilha. ",
+        "author": "Charles Leadbeater, no livro We Think(2008)"
+    },
+    {
+        "id": "05",
+        "quotes": "Um cínico é um homem que sabe o preço de tudo, mas o valor de nada.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "id": "06",
+        "quotes": "A educação é a arma mais poderosa para mudar o mundo.",
+        "author": "Nelson Mandela"
+    },
+    {
+        "id": "07",
+        "quotes": "O cientista não é o homem que fornece as verdadeiras respostas; é quem faz as verdadeiras perguntas.",
+        "author": "Claude Lévi-Strauss"
+    },
+    {
+        "id": "08",
+        "quotes": "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se.",
+        "author": " Viktor Frankl"
+    },
+    {
+        "id": "09",
+        "quotes": "A habilidade é de pouca importância, sem a oportunidade.",
+        "author": " Napoleão Bonaparte"
+    },
+    {
+        "id": "10",
+        "quotes": "Estabelecer metas é o primeiro passo para tornar o invisível em visível.",
+        "author": " Tony Robbins"
+    },
+    {
+        "id": "11",
+        "quotes": "Em três palavras eu posso resumir tudo o que aprendi sobre a vida: ela sempre continua. ",
+        "author": "Robert Frost"
+    },
+    {
+        "id": "12",
+        "quotes": "A inovação quase nunca fracassa por falta de criatividade. Quase sempre isso se deve à falta de disciplina.",
+        "author": " Larry Keeley"
+    },
+    {
+        "id": "13",
+        "quotes": "O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade.",
+        "author": " Winston Churchill"
+    },
+    {
+        "id": "14",
+        "quotes": "O que realmente importa na vida é o que se faz com o tempo que nos é dado.",
+        "author": "Gandalf"
+    },
+    {
+        "id": "15",
+        "quotes": "O elogio que vem daquele que merece o elogio está acima de todas as recompensas.",
+        "author": "Gandalf"
+    },
+    {
+        "id": "16",
+        "quotes": "Mesmo a menor pessoa pode mudar o curso do futuro.",
+        "author": "Galadriel"
+    },
+    {
+        "id": "17",
+        "quotes": "Este é um pequeno passo para o homem e um grande salto para a humanidade.",
+        "author": "Neil Armstrong"
+    },
+    {
+        "id": "18",
+        "quotes": "A esperança é um bom escudo, mas é mais fácil lutar com uma espada.",
+        "author": "Elrond"
+    },
+    {
+        "id": "19",
+        "quotes": "Que a força esteja com você.",
+        "author": "Obi-Wan Kenobi."
+    },
+    {
+        "id": "20",
+        "quotes": "Enquanto puderes erguer os olhos para o céu, sem medo, saberás que tens o coração puro, e isto significa felicidade.",
+        "author": "Anne Frank"
+    },
+    {
+        "id": "21",
+        "quotes": "O que você sabe não tem valor; o valor está no que você faz com o que sabe.",
+        "author": "Bruce Lee"
+    },
+    {
+        "id": "22",
+        "quotes": "Cedo ou tarde você descobrirá a diferença entre saber o caminho e percorrer o caminho.",
+        "author": "Matrix"
+    },
+    {
+        "id": "23",
+        "quotes": "A vingança nunca é plena, mata a alma e envenena.",
+        "author": "Seu Madruga"
+    },
+    {
+        "id": "24",
+        "quotes": "Se não pudermos proteger a Terra, pode ter certeza que iremos vingá-la.",
+        "author": "Homem de Ferro"
+    },
+    {
+        "id": "25",
+        "quotes": "A Felicidade são se resume na falta de problemas e sim na capacidade de lidar com eles",
+        "author": "Albert Einstein"
+    },
+    {
+        "id": "26",
+        "quotes": "Se der certo ou não, não importa. O que importa é que eu tentei e fui o mais longe que pude.",
+        "author": "Dean Winchester"
+    },
+    {
+        "id": "27",
+        "quotes": "A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir.",
+        "author": "Elon Musk"
+    },
+    {
+        "id": "28",
+        "quotes": "Carpe diem. Aproveitem o dia. Tornem suas vidas extraordinárias.",
+        "author": " A Sociedade dos Poetas Mortos"
+    },
+    {
+        "id": "29",
+        "quotes": "Não são as nossas habilidades que mostram o que realmente somos… são nossas escolhas",
+        "author": "Dumbordore"
+    },
+    {
+        "id": "30",
+        "quotes": "Às vezes, são as pessoas das quais ninguém imagina nada que fazem as coisas que ninguém pode imaginar.",
+        "author": "O Jogo da Imitação"
+    },
+    {
+        "id": "31",
+        "quotes": "As grandes conquistas da humanidade foram obtidas conversando, e as grandes falhas pela falta de diálogo.",
+        "author": "Stephen Hawking"
+    },
+    {
+        "id": "32",
+        "quotes": "Continue a ter iniciativas, nas horas decisivas a confiança faz diferença",
+        "author": "Chris Evert"
+    },
+    {
+        "id": "33",
+        "quotes": "Nada na vida deve ser temido, somente compreendido. Agora é hora de compreender mais para temer menos.",
+        "author": "Marie Curie "
+    },
+    {
+        "id": "34",
+        "quotes": "Feliz aquele que transfere o que sabe e aprende o que ensina.",
+        "author": "Cora Coralina "
+    },
+    {
+        "id": "35",
+        "quotes": "A força não provém da capacidade física. Provém de uma vontade indomável.",
+        "author": "Mahatma Gandhi"
+    }
+]
