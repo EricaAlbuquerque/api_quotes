@@ -1,0 +1,69 @@
+{
+    "favoriteQuotes": [
+        {
+            "id": "01",
+            "quotes": "Alguns homens veem coisas e perguntam porque. Outros sonham coisas que nunca existiram e perguntam porque não.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "id": "02",
+            "quotes": " A alma fica tingida pela cor dos seus pensamentos.   ",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "id": "03",
+            "quotes": "Pensar é fácil. Agir é difícil. Mas a coisa mais difícil no mundo é agir de acordo com o seu pensamento.",
+            "author": "Goethe"
+        },
+        {
+            "id": "04",
+            "quotes": "No passado, você era o que você possuia. Agora, você é o que você compartilha. ",
+            "author": "Charles Leadbeater, no livro We Think(2008)"
+        },
+        {
+            "id": "05",
+            "quotes": "Um cínico é um homem que sabe o preço de tudo, mas o valor de nada.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "id": "06",
+            "quotes": "A educação é a arma mais poderosa para mudar o mundo.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "id": "07",
+            "quotes": "O cientista não é o homem que fornece as verdadeiras respostas; é quem faz as verdadeiras perguntas.",
+            "author": "Claude Lévi-Strauss"
+        },
+        {
+            "id": "08",
+            "quotes": "Quando a situação for boa, desfrute-a. Quando a situação for ruim, transforme-a. Quando a situação não puder ser transformada, transforme-se.",
+            "author": " Viktor Frankl"
+        },
+        {
+            "id": "09",
+            "quotes": "A habilidade é de pouca importância, sem a oportunidade.",
+            "author": " Napoleão Bonaparte"
+        },
+        {
+            "id": "10",
+            "quotes": "Estabelecer metas é o primeiro passo para tornar o invisível em visível.",
+            "author": " Tony Robbins"
+        },
+        {
+            "id": "11",
+            "quotes": "Em três palavras eu posso resumir tudo o que aprendi sobre a vida: ela sempre continua. ",
+            "author": "Robert Frost"
+        },
+        {
+            "id": "12",
+            "quotes": "A inovação quase nunca fracassa por falta de criatividade. Quase sempre isso se deve à falta de disciplina.",
+            "author": " Larry Keeley"
+        },
+        {
+            "id": "02",
+            "quotes": "O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade.",
+            "author": " Winston Churchill"
+        }
+    ]
+}
